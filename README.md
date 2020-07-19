@@ -1,4 +1,4 @@
-Cowhouse
-========
+Personal website
+================
 
-This powers https://www.tugushev.ru
+This repo powers https://www.tugushev.ru
