@@ -20,7 +20,7 @@ The incomplete list of projects I worked on.
 - [pyupgrade](https://github.com/asottile/pyupgrade) — a tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language
 - [mutmut](https://github.com/boxed/mutmut) — a mutation testing system
 
-## Commecrial
+## Commercial
 
 - [Assaia Apron AI](https://assaia.com) — an AI solution that watches turnarounds in real time to understand what is happening and offers predictive analysis to better manage operations
 - [The Abyss](https://theabyss.com) — a digital distribution platform for MMO/MMORPG games
