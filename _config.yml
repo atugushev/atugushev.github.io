@@ -1,16 +1,17 @@
-title: "Cow house"
-description: "A big cow house"
+title: "Albert Tugushev"
+description: "Personal website"
 baseurl: "/"
-url: "https://tugushev.ru"
+url: "https://www.tugushev.ru"
 
 header_pages:
   - index.md
+  - projects.md
   - about.md
   - contact.md
 
 style: light
 
-footer: 'follow me on <a href="https://twitter.com/metalikus">twitter</a>'
+footer: '© Copyright 2020 by Albert Tugushev.<style>p {margin-bottom: 15px;}</style>'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console

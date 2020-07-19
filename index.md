@@ -1,7 +1,7 @@
 ---
-title: /cowhouse
+title: /blog
 layout: home
 permalink: /
 ---
 
-# Cow house
+# Blog
