@@ -18,6 +18,7 @@ The incomplete list of projects I worked on or participated.
 - [flake8-printf-formatting](https://github.com/atugushev/flake8-printf-formatting) — a flake8 plugin that forbids printf-style string formatting
 - [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) — a flake8 plugin which checks that typing imports are properly guarded
 - [pyupgrade](https://github.com/asottile/pyupgrade) — a tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language
+- [mutmut](https://github.com/boxed/mutmut) — a mutation testing system
 
 ## Commecrial
 
