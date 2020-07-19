@@ -7,4 +7,4 @@ categories:
 
 # Initial post
 
-Actually nothing interesting in the first post. Just added info about [myself](/about) and [projects](/projects) I'm working on or had ever worked.
+Actually nothing interesting in the first post. Just added info about [myself](/about/) and [projects](/projects) I worked on.

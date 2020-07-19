@@ -6,7 +6,7 @@ permalink: /projects/
 
 # Projects
 
-The incomplete list of projects I worked on or participated.
+The incomplete list of projects I worked on.
 
 ## Open Source
 
