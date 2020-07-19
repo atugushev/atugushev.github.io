@@ -10,20 +10,26 @@ My name is Albert Tugushev. I am originally from Russia (yeah, I drink vodka and
 
 ## Résumé
 
-From August 2017 through August 2019, I worked for The Abyss LTD as Head of Engineering Department, where I worked on a new gaming platform [The Abyss](https://theabyss.com). I managed the Backend Department (5 people) and was responsible for developing high-load and scalable web services. Technologies: python 3.7, django, django-rest-framework, pytest, redis, rabbitmq, postgresql, docker, gitlab.
+From **January 2020**, I work for [Assaia International Ltd.](https://assaia.com) as Senior Software Engineer in the "Real-Time Engine" team heading by [Serge Matveenko](https://gihub.com/lig), where I'm working on an AI solution that watches turnarounds in real-time to understand what is happening and offers predictive analysis to better manage operations. Technologies: python 3.6+, asyncio, flask, nsq, postgresql, redis, docker, gitlab, pytest.
 
-From August 2014 through August 2017, I was a Senior Python Developer at [Destiny.Games](https://destiny.games), where I worked on a popular Korean fantasy non-target MMO game [TERA](https://en.wikipedia.org/wiki/TERA_(video_game)). I was responsible for developing web services. Technologies used: python 2.7, django, unittest, redis, mysql, jenkins, gitlab.
+From **August 2017** through **August 2019**, I worked for The Abyss LTD as Head of Engineering Department, where I worked on a new gaming platform [The Abyss](https://theabyss.com). I managed the Backend Department (5 people) and was responsible for developing high-load and scalable web services. Technologies: python 3.7, django, django-rest-framework, pytest, redis, rabbitmq, postgresql, docker, gitlab.
 
-From August 2011 through August 2014, I worked for [Destiny Development](https://destiny.games) as Perl Developer, working on many web services mostly for online games (browser and desktop). Technologies used: perl5, catalyst framework, mysql, memcached.
+From **August 2014** till **August 2017**, I was a Senior Python Developer at [Destiny.Games](https://destiny.games) in the Development team headed by [Yuri Balandin](https://github.com/geraxe), where I worked on a popular Korean fantasy non-target MMORPG [TERA](https://en.wikipedia.org/wiki/TERA_(video_game)). I was responsible for developing web services. Technologies: python 2.7, django, unittest, redis, mysql, jenkins, gitlab.
 
-From March 2009 through January 2011, I was employed at [Mail.Ru Group](https://my.com) as Senior Perl Developer, where I worked on a quest-editor for postnuclear online game TimeZero. Technologies:perl5,xsperl.
+From **August 2011** to **August 2014**, I worked for [Destiny Development](https://destiny.games) as Perl Developer in the Development team headed by [Yuri Balandin](https://github.com/geraxe), working on many web services mostly for online games (browser and desktop). Technologies: perl5, catalyst framework, mysql, memcached.
 
-From November 2008 through February 2009, I worked for [RBK Group](http://rbcholding.com) as Perl Developer, working on hosting email service based on MS Exchange. Technologies: perl5, catalyst framework, memcached, mysql.
+From **March 2009** through **January 2011**, I was employed at [Mail.Ru Group](https://my.com) as Senior Perl Developer, where I worked on a quest-editor for postnuclear online game [TimeZero](https://timezero.ru). Technologies: perl5, xsperl.
 
-From August 2007 through October 2008, I was a Perl Developer at LLC "TimeZero", where I worked on quests' scripts for online game [TimeZero](https://timezero.ru) using Perl language. Technologies: perl5, xs perl.
+From **November 2008** till **February 2009**, I worked for [RBK Group](http://rbcholding.com) as Perl Developer, working on hosting email service based on MS Exchange. Technologies: perl5, catalyst framework, memcached, mysql.
 
-From September 2004 through August 2007, I was employed at [FRPC JSC "RPA "Mars"](http://www.npomars.com/en/) as C++ Developer, where I worked on various software using C++ language and QT framework, administered LAN and Linux servers. Technologies: c, c++, qt.
+From **August 2007** to **October 2008**, I was a Perl Developer at LLC "TimeZero", where I worked on quests' scripts for online game [TimeZero](https://timezero.ru) using Perl language. Technologies: perl5, xs perl.
+
+From **September 2004** through **August 2007**, I was employed at [FRPC JSC "RPA "Mars"](http://www.npomars.com/en/) as C++ Developer, where I worked on various software using C++ language and QT framework, administered LAN and Linux servers. Technologies: c, c++, qt3, perl5.
 
 ## Education
 
 I received a Master's degree in Mechanics and Mathematics at [Ulyanovsk State University](http://english.ulsu.ru) in 2005.
+
+## Open Source
+
+From **January 2019**, I'm actively maintaining [pip-tools](https://github.com/jazzband/pip-tools) as part of [Jazzband](https://jazzband.co/) organization and also as one of the [project leads](https://jazzband.co/projects/pip-tools). Even though I spend most of my spare time maintaining pip-tools, I'm also working on other open-source [projects](/projects/).
