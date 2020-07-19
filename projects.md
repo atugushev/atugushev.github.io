@@ -14,7 +14,7 @@ The incomplete list of projects I worked on.
 
 ## Commecrial
 
-- [Assaaia Apron AI](https://assaia.com) — an AI solution that watches turnarounds in real time to understand what is happening and offers predictive analysis to better manage operations
+- [Assaia Apron AI](https://assaia.com) — an AI solution that watches turnarounds in real time to understand what is happening and offers predictive analysis to better manage operations
 - [The Abyss](https://theabyss.com) — a digital distribution platform for MMO/MMORPG games
 
 
