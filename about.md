@@ -7,11 +7,11 @@ permalink: /about/
 # Overview
 
 <a href="https://0.gravatar.com/avatar/623f25d2d07aa766aa54bcf1216e9c09?s=256" target="_blank"><img style="float: right; margin: 10px 0 10px 10px; border-radius: 5px; width: 128px; height: 128px; filter: grayscale(90%);" src="//0.gravatar.com/avatar/623f25d2d07aa766aa54bcf1216e9c09?s=256"></a>
-My name is Albert Tugushev. I am originally from Russia (yeah, I drink vodka and play on balalaika), and currently living in Thailand (Phuket). I am a professional software engineer since 2004 and experienced Python developer since 2014. I am very passionate about free/open source software and have started to actively contribute since January 2019.
+My name is Albert Tugushev. I am originally from Russia, and currently living in Thailand (Phuket). I am a professional software engineer since 2004 and experienced Python developer since 2014. I am very passionate about free/open source software and have started to actively contribute since January 2019.
 
 ## Résumé
 
-From **January 2020**, I work for [Assaia International Ltd.](https://assaia.com) as Senior Software Engineer in the "Real-Time Engine" team heading by [Serge Matveenko](https://gihub.com/lig), where I'm working on an AI solution that watches turnarounds in real-time to understand what is happening and offers predictive analysis to better manage operations. Technologies: python 3.6+, asyncio, flask, nsq, postgresql, redis, docker, gitlab, pytest.
+From **January 2020**, I work for [Assaia International Ltd.](https://assaia.com) as Senior Software Engineer in the "Real-Time Engine" team heading by [Serge Matveenko](https://github.com/lig), where I'm working on an AI solution that watches turnarounds in real-time to understand what is happening and offers predictive analysis to better manage operations. Technologies: python 3.6+, asyncio, flask, nsq, postgresql, redis, docker, gitlab, pytest.
 
 From **August 2017** through **August 2019**, I worked for The Abyss LTD as Head of Engineering Department, where I worked on a new gaming platform [The Abyss](https://theabyss.com). I managed the Backend Department (5 people) and was responsible for developing high-load and scalable web services. Technologies: python 3.7, django, django-rest-framework, pytest, redis, rabbitmq, postgresql, docker, gitlab.
 
