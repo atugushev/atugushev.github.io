@@ -35,4 +35,4 @@ The incomplete list of projects I worked on.
 - [Weapons Of The Gods](https://web.archive.org/web/20120503015853/http://www.wgods.ru/) — a fantasy MMORPG
 - [PRWAR](https://web.archive.org/web/20120906032306/http://www.prwar.ru/) — a web-browser game about voting and ratings
 - [Nemexia](https://en.wikipedia.org/wiki/Nemexia_(video_game)) — a space strategy MMORPG
-- [TimeZero](https://timezero.ru) — a postnuclear MMORPG
+- [TimeZero](https://ru.wikipedia.org/wiki/TimeZero) — a postnuclear MMORPG
