@@ -11,7 +11,7 @@ header_pages:
 
 style: light
 
-footer: '© Copyright 2021 by Albert Tugushev.<style>p {margin-bottom: 15px;}</style>'
+footer: '© Copyright 2022 by Albert Tugushev.<style>p {margin-bottom: 15px;}</style>'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
