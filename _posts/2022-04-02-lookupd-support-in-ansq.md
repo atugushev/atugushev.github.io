@@ -7,7 +7,7 @@ categories:
 
 # Lookupd support in ansq
 
-Latelty I've been working on [ansq](https://github.com/list-family/ansq) for a few days adding support for [nsqlookupd](https://nsq.io/components/nsqlookupd.html). This important feature will hellp to build distributed and scallable services based on [NSQ](https://nsq.io) messaging platform.
+Latelty I've been working on [ansq](https://github.com/list-family/ansq) for a few days adding support for [nsqlookupd](https://nsq.io/components/nsqlookupd.html). This important feature will help to build distributed and scalable services based on [NSQ](https://nsq.io) messaging platform.
 
 ### Pull requests
 
