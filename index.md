@@ -1,7 +1,7 @@
 ---
-title: /blog
+title: /home
 layout: home
 permalink: /
 ---
 
-# Blog
+# Changelog
