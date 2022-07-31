@@ -6,8 +6,7 @@ permalink: /about/
 
 # Overview
 
-<a href="https://0.gravatar.com/avatar/623f25d2d07aa766aa54bcf1216e9c09?s=256" target="_blank"><img style="float: right; margin: 10px 0 10px 10px; border-radius: 5px; width: 128px; height: 128px; filter: grayscale(90%);" src="//0.gravatar.com/avatar/623f25d2d07aa766aa54bcf1216e9c09?s=256"></a>
-My name is Albert Tugushev. I am originally from Russia, and currently living in Thailand (Phuket). I am a professional software engineer since 2004 and experienced Python developer since 2014. I am very passionate about free/open source software and have started to actively contribute since January 2019.
+My name is Albert Tugushev. I am originally from Russia, and currently living in Montenegro. I am a professional software engineer since 2004 and an experienced Python developer since 2014. I am very passionate about Free/Open Source Software and have been contributing since 2019. My main interests in F/OSS are python packaging and developer tools.
 
 ## Résumé
 
