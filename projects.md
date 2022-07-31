@@ -8,11 +8,14 @@ permalink: /projects/
 
 The incomplete list of projects I worked on.
 
-## Open Source
+## Open Source maintainer
 
 - [pip-tools](https://github.com/jazzband/pip-tools) — a set of tools to keep your pinned Python dependencies fresh
-- [pip](https://github.com/pypa/pip) — the Python package installer
 - [ansq](https://github.com/list-family/ansq) — a Python asyncio NSQ library
+
+## Open Source contributor
+
+- [pip](https://github.com/pypa/pip) — the Python package installer
 - [dolib](https://github.com/geraxe/dolib) — a Python library for Digital Ocean API
 - [wok](https://github.com/lig/wok) — a tool to control several git repositories as a single project
 - [flake8-printf-formatting](https://github.com/atugushev/flake8-printf-formatting) — a flake8 plugin that forbids printf-style string formatting
