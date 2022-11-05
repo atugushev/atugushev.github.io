@@ -12,26 +12,26 @@ The incomplete list of projects I worked on.
 
 - [pip-tools](https://github.com/jazzband/pip-tools) — a set of tools to keep your pinned Python dependencies fresh
 - [ansq](https://github.com/list-family/ansq) — a Python asyncio NSQ library
+- [flake8-printf-formatting](https://github.com/atugushev/flake8-printf-formatting) — a flake8 plugin that forbids printf-style string formatting
 
 ## Open Source contributor
 
-- [aiohttp](https://github.com/aio-libs/aiohttp) - asynchronous HTTP client/server framework for asyncio and Python
-- [deadsnakes/action](https://github.com/deadsnakes/action) - a GitHub action to install (pre-release) pythons from deadsnakes
-- [django-annoying](https://github.com/skorokithakis/django-annoying) - a django application that tries to eliminate annoying things in the Django framework
-- [django-lifecycle](https://github.com/rsinger86/django-lifecycle) - declarative model lifecycle hooks, an alternative to Signals
-- [django-modeltrans](https://github.com/zostera/django-modeltrans) - translate Django model fields in a PostgreSQL JSONField
-- [django-taggit](https://github.com/jazzband/django-taggit) - simple tagging for django
-- [dolib](https://github.com/geraxe/dolib) — a Python library for Digital Ocean API
-- [flake8-printf-formatting](https://github.com/atugushev/flake8-printf-formatting) — a flake8 plugin that forbids printf-style string formatting
-- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports) — a flake8 plugin which checks that typing imports are properly guarded
-- [flake8](https://github.com/PyCQA/flake8) — a flake8 is a Python code quality tool
-- [flask-apispec](https://github.com/jmcarp/flask-apispec) - a lightweight tool for building REST APIs in Flask
-- [mutmut](https://github.com/boxed/mutmut) — a mutation testing system
-- [pip](https://github.com/pypa/pip) — the Python package installer
-- [python-license-check](https://github.com/dhatim/python-license-check) - check python packages from requirement.txt and report issues
-- [pyupgrade](https://github.com/asottile/pyupgrade) — a tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language
-- [toml-sort](https://github.com/pappasam/toml-sort) - toml sorting library
-- [wok](https://github.com/lig/wok) — a tool to control several git repositories as a single project
+- [aiohttp](https://github.com/aio-libs/aiohttp)
+- [deadsnakes/action](https://github.com/deadsnakes/action)
+- [django-annoying](https://github.com/skorokithakis/django-annoying)
+- [django-lifecycle](https://github.com/rsinger86/django-lifecycle)
+- [django-modeltrans](https://github.com/zostera/django-modeltrans)
+- [django-taggit](https://github.com/jazzband/django-taggit)
+- [dolib](https://github.com/geraxe/dolib)
+- [flake8-typing-imports](https://github.com/asottile/flake8-typing-imports)
+- [flake8](https://github.com/PyCQA/flake8)
+- [flask-apispec](https://github.com/jmcarp/flask-apispec)
+- [mutmut](https://github.com/boxed/mutmut)
+- [pip](https://github.com/pypa/pip)
+- [python-license-check](https://github.com/dhatim/python-license-check)
+- [pyupgrade](https://github.com/asottile/pyupgrade)
+- [toml-sort](https://github.com/pappasam/toml-sort)
+- [wok](https://github.com/lig/wok)
 
 ## Commercial
 
