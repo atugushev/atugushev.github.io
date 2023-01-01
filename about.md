@@ -14,7 +14,7 @@ Since **January 2020**, I've been working for [Assaia International Ltd.](https:
 
 From **August 2017** through **August 2019**, I worked for The Abyss LTD as Head of Engineering Department, where I worked on a new gaming platform [The Abyss](https://theabyss.com). I managed the Backend Department (5 people) and was responsible for developing high-load and scalable web services. Technologies: python 3.7, django, django-rest-framework, pytest, redis, rabbitmq, postgresql, docker, gitlab.
 
-From **August 2014** till **August 2017**, I was a Senior Python Developer at [Destiny.Games](https://destiny.games) in the Development team headed by [Yuri Balandin](https://github.com/geraxe), where I worked on a popular Korean fantasy non-target MMORPG [TERA](https://en.wikipedia.org/wiki/TERA_(video_game)). I was responsible for developing web services. Technologies: python 2.7, django, unittest, redis, mysql, jenkins, gitlab.
+From **August 2014** till **August 2017**, I was a Senior Python Developer at [Destiny.Games](https://destiny.games) in the Development team headed by [Yuri Balandin](https://github.com/geraxe), where I worked on a popular Korean fantasy non-target MMORPG [TERA](<https://en.wikipedia.org/wiki/TERA_(video_game)>). I was responsible for developing web services. Technologies: python 2.7, django, unittest, redis, mysql, jenkins, gitlab.
 
 From **August 2011** to **August 2014**, I worked for [Destiny Development](https://destiny.games) as Perl Developer in the Development team headed by [Yuri Balandin](https://github.com/geraxe), working on many web services mostly for online games (browser and desktop). Technologies: perl5, catalyst framework, mysql, memcached.
 

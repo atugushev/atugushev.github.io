@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Lookupd support in ansq"
-date:   2022-04-02 13:00:00 +0700
+title: "Lookupd support in ansq"
+date: 2022-04-02 13:00:00 +0700
 categories:
 ---
 
