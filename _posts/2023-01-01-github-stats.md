@@ -9,7 +9,7 @@ categories:
 
 - 25 issues
 - 78 pull requests
-- 89 code revieews
+- 89 code reviews
 - 163 commits
 
 <img src="/assets/github-2022-stats.jpg" width="600"/>
