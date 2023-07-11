@@ -10,7 +10,7 @@ My name is Albert Tugushev. I am originally from Russia, and currently living in
 
 ## Résumé
 
-From **January 2020** to **June 2023**, I was employed at [Assaia International Ltd.](https://assaia.com) as Senior Software Engineer in the "Real-Time Engine" team led by [Serge Matveenko](https://github.com/lig). Here I worked on an [AI solution](https://demo.assaia.com) that watches aircraft turnarounds in real-time to understand what is happening and offers predictive analysis to better manage operations. Technologies: python 3.6+, asyncio, aiohttp, flask, nsq, postgresql, mongodb, redis, k8s, gitlab, pytest.
+From **January 2020** to **June 2023**, I was employed at [Assaia International Ltd.](https://assaia.com) as Senior Software Engineer in the "Real-Time Engine" team led by [Serge Matveenko](https://github.com/lig). Here I worked on an [AI solution](https://demo.assaia.com) that watches aircraft turnarounds in real-time to understand what is happening and offers predictive analysis to better manage operations. Technologies: python 3.8+, asyncio, aiohttp, flask, nsq, postgresql, mongodb, redis, k8s, gitlab, pytest.
 
 From **August 2017** through **August 2019**, I worked for The Abyss LTD as Head of Engineering Department, where I worked on a new gaming platform [The Abyss](https://theabyss.com). I managed the Backend Department (5 people) and was responsible for developing high-load and scalable web services. Technologies: python 3.7, django, django-rest-framework, pytest, redis, rabbitmq, postgresql, docker, gitlab.
 
