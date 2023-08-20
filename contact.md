@@ -10,3 +10,4 @@ permalink: /contact/
 - Github: [@atugushev](https://github.com/atugushev)
 - Twitter: [@metalikus](https://twitter.com/metalikus)
 - Mastodon: [@alikus@fosstodon.org](https://fosstodon.org/@alikus)
+- LinkedIn: [@alikus](https://www.linkedin.com/in/alikus)
